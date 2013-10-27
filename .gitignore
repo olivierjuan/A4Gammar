@@ -1,4 +1,5 @@
 *.class
+*.tokens
 
 # Package Files #
 *.jar
