@@ -1,0 +1,2 @@
+Main-Class: Main
+Class-Path: @PROJECT_SOURCE_DIR@/ext/antlr-4.1-complete.jar
